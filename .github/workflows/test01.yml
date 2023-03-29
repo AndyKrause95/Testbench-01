@@ -4,6 +4,7 @@ on: push
 jobs:
   deploy:
     name: Deploy
+    environment: testing
     runs-on: ubuntu-latest
     steps:
 
