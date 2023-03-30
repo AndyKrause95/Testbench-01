@@ -2,7 +2,7 @@
 
 echo "<h1>New Heading!</h1>";
 
-echo "This is just a test! Hello World!";
+echo "This is just a test for GitHub! Hello World!";
 echo "</br>";
 echo "Test-feature";
 
