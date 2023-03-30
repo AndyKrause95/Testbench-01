@@ -15,4 +15,5 @@ echo "Username: " . getenv("DB_USER");
 echo "</br>";
 echo "Database: " . getenv("DB_NAME");
 echo "</br>";
+echo "</br>";
 echo "by Andy";
